@@ -12,5 +12,3 @@ Incident response simulations and attack detection tests
 
 Network monitoring dashboards and Sysmon log analysis
 
-Goal:
-Demonstrate your hands-on practice, problem-solving, and curiosity in building and defending your own enterprise-grade lab.
